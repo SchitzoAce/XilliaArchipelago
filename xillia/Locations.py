@@ -13,6 +13,6 @@ XILLIA_LOCATIONS = {
 def create_locations(world: MultiWorld, player: int):
     locations = []
     for name, location_id in XILLIA_LOCATIONS.items():
-        loc = XilliaLocation(name, location_id, player)
+        loc = XilliaLocation(self.player, name, loc_id, menu)
         locations.append(loc)
     return locations
