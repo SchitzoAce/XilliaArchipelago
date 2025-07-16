@@ -34,5 +34,4 @@ Contributers:
 
 ---
 
-## 📂 File Layout (Custom World)
 
