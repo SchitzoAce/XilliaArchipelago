@@ -17,11 +17,7 @@ Contributers:
 
 ## 🧪 Known Issues
 
-- ⚠️ `KeyError: 'Ramsgate Shop'`  
-  └ Location isn't pre-registered before being used. Fixed by ensuring all locations are pre-populated during `create_locations()`.
 
-- ⚠️ `IndentationError` in `XilliaWorld.py`  
-  └ Caused by missing indents under function definitions. Resolved by proper formatting.
 
 ---
 
