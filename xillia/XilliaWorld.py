@@ -19,7 +19,7 @@ class XilliaWorld(World):
         self.multiworld.regions.append(menu)
         for name, loc_id in self.location_name_to_id.items():
             # Manually instantiate each Location, binding it to the Menu region
-            loc = XilliaLocation(name, loc_id, self.player, menu)
+            loc = XilliaLocation(self.player, name, loc_id, menu)
             menu.locations.append(loc)
 
     def create_items(self):
