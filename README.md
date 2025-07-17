@@ -11,7 +11,9 @@ Contributers:
 - ✅ Items and locations defined (3 total for now)
 - ✅ Region definitions initialized
 - ✅ Game is detected by Archipelago as `xillia`
-- 🔁 Currently troubleshooting seed generation issues
+- ✅ Game is seeded
+- Need help orgainizing and laying out items/shops/bosses etc.
+  
 
 ---
 
